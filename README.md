@@ -29,3 +29,12 @@ This project is a **College Enquiry Chatbot** designed to help students get quic
 - Integrate AI/NLP for dynamic responses
 - Add voice input and output
 - Connect to college database for real-time updates
+
+## Team Members
+- Muskaan Yadav
+- Abhishek Yadav
+- Tawishi Sharma
+
+## Deployment
+The chatbot is deployed and running at:
+https://muskaanyadav10.pythonanywhere.com/
